@@ -10,7 +10,7 @@
 - 🎨 GIMP
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x3f6n3wjp345538wycu3nker5&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x3f6n3wjp345538wycu3nker5&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
