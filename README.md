@@ -10,8 +10,7 @@
 - 🎨 GIMP
 
 ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x3f6n3wjp345538wycu3nker5&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
