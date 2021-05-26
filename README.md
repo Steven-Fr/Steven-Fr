@@ -52,9 +52,3 @@
 
 ---
 
-
-[website]: https://google.com
-[youtube]: https://google.com
-[instagram]: https://instagram.com/_stiv_00
-[linkedin]: https://www.linkedin.com/in/steven-freschet-2860b1162/
-
