@@ -1,4 +1,4 @@
-### Hi there, I'm Steven [website] 👋
+### Hi there, I'm Steven 👋
 
 ## I'm a Developer!
 
