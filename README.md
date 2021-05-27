@@ -10,7 +10,7 @@
 - 🎨 GIMP
 
 ### Spotify Playing 🎧
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Zero_00)
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/playlist/6dqBk0nprMzGMhvcGoNG50)
 
 
 ### Connect with me:
