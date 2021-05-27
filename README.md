@@ -10,7 +10,8 @@
 - 🎨 GIMP
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x3f6n3wjp345538wycu3nker5&cover_image=true&theme=natemoo-re)](https://open.spotify.com/playlist/6dqBk0nprMzGMhvcGoNG50?si=684a5518922e4664)
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Zero_00)
+
 
 ### Connect with me:
 
