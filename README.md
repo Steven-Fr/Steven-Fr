@@ -29,7 +29,7 @@
 [<img align="left" alt="Heidenhain" width="26px" src="https://www.logolynx.com/images/logolynx/6f/6f5fb3b41cfc089a2815ed4947581715.jpeg" />](https://www.heidenhain.com/) Heidenhain PLCDesign (control 530, 640) 
 <br/>
 <br/>
-[<img align="left" alt="PILZ" width="26px" src="https://www.pilz.com/imagecache/mam/pilz/images/import/01_Products_and_Solutions/A0300_small_controllers/A0300B0330_software/g_software_pnozmulti_configurator_3c_2016_06_218x218-desktop-1592317935.jpg" />](https://www.pilz.com/it-IT) PNOZmulti Configurator 
+[<img align="left" alt="PILZ" width="26px" src="https://plc-trade.com/pub/676016/pilz.jpg" />](https://www.pilz.com/it-IT) PNOZmulti Configurator 
 <br/>
 
 ### Tools: 
